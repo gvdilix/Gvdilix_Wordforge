@@ -21,20 +21,3 @@ Perfect for cybersecurity research, password analysis, automation and large data
 ├── README.md # documentation file
 └── requirements.txt # dependencies (empty or minimal)
 
----
-
-## 🔧 Requirements
-
-This project uses only Python built-in libraries unless upgraded.
-
-##txt
-# requirements.txt
-# No external libraries required
-
-----
-
-##🔥 How to Run
-
-python3 wordforge.py
-
-
