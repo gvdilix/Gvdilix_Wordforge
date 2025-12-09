@@ -27,12 +27,14 @@ Perfect for cybersecurity research, password analysis, automation and large data
 
 This project uses only Python built-in libraries unless upgraded.
 
-txt
+##txt
 # requirements.txt
 # No external libraries required
 
 ----
-🔥 How to Run
+
+##🔥 How to Run
+
 python3 wordforge.py
 
 
